@@ -14,6 +14,14 @@ Example:
 ```
 node dist/index.js -w 8 -l 8 
 ```
+---
+
+## Developing Instructions
+Downlaod this from Github:
+
+```
+git clone git@github.com:CBoettcher19590/geralds-contracting-.git
+```
 
 ---
 
