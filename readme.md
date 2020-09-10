@@ -63,7 +63,7 @@ the next outside edge; the board is included in the 16 inches)
 | House Measurements | Studs Required | Application Returns | Last Test Run By |
 | ------------------ | -------------- | ------------------- | ---------------- |
 | 8 x 8              | 40             |  44                 | Colby Boettcher  |
-|18 x 8              | 66             |  62                 | Colby Boettcher  |
+|18 x 8              | 66             |  66                 | Colby Boettcher  |
 
 
 ---
